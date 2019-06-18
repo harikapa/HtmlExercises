@@ -1,0 +1,11 @@
+body{
+    margin-left: 30%;
+    background-color: #d3d3d3;
+}
+.WhiteBorder
+{
+    border: 1px solid white;
+    padding: 15px;
+    margin-right: 15cm;
+    text-align: center;
+}
